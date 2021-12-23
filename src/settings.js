@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vue Element Admin',
+  title: 'APlan-front-end',
 
   /**
    * @type {boolean} true | false

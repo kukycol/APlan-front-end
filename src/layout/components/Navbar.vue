@@ -34,7 +34,7 @@
           <router-link :to="{path:'/profile/index-password'}">
             <el-dropdown-item>修改密碼</el-dropdown-item>
           </router-link>
-          <!--          <a target="_blank" href="https://github.com/PanJiaChen/vue-element-admin/">-->
+          <!--          <a target="_blank" href="https://github.com/kukycol/APlan-front-end/">-->
           <!--            <el-dropdown-item>Github</el-dropdown-item>-->
           <!--          </a>-->
           <!--          <a target="_blank" href="https://panjiachen.github.io/vue-element-admin-site/#/">-->

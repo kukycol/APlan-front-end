@@ -115,7 +115,7 @@ const actions = {
         resetRouter()
         // removeNavigate()
         // reset visited views and cached views
-        // to fixed https://github.com/PanJiaChen/vue-element-admin/issues/2485
+        // to fixed https://github.com/kukycol/APlan-front-end/issues/2485
         dispatch('tagsView/delAllViews', null, { root: true })
 
         resolve()
